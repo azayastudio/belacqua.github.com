@@ -1,0 +1,8 @@
+---
+layout: post
+title: "New Post"
+date: 2012-01-24 09:39
+comments: true
+categories: 
+---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, arcu in tincidunt tristique, nisi nisl ultricies diam, eget rutrum nisi tellus vitae augue. Etiam vestibulum placerat mollis. Ut tempus porta lorem, quis tempus dui fringilla sed. Etiam sed fringilla turpis. Suspendisse quis dui in massa tristique iaculis in a purus. Phasellus urna velit, porttitor accumsan vulputate in, accumsan non tortor. Maecenas nec lobortis purus. Donec mattis imperdiet lectus. Quisque nec tellus at sapien aliquam dictum ac sed enim. Suspendisse potenti.
