@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://azayastudio.github.com/atom.xml" rel="self"/>
   <link href="http://azayastudio.github.com/"/>
-  <updated>2012-01-23T18:23:06+01:00</updated>
+  <updated>2012-01-24T09:43:02+01:00</updated>
   <id>http://azayastudio.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Post]]></title>
+    <link href="http://azayastudio.github.com/blog/2012/01/24/new-post/"/>
+    <updated>2012-01-24T09:39:00+01:00</updated>
+    <id>http://azayastudio.github.com/blog/2012/01/24/new-post</id>
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, arcu in tincidunt tristique, nisi nisl ultricies diam, eget rutrum nisi tellus vitae augue. Etiam vestibulum placerat mollis. Ut tempus porta lorem, quis tempus dui fringilla sed. Etiam sed fringilla turpis. Suspendisse quis dui in massa tristique iaculis in a purus. Phasellus urna velit, porttitor accumsan vulputate in, accumsan non tortor. Maecenas nec lobortis purus. Donec mattis imperdiet lectus. Quisque nec tellus at sapien aliquam dictum ac sed enim. Suspendisse potenti.</p>
+]]></content>
+  </entry>
   
 </feed>
